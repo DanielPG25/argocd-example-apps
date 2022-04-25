@@ -4,9 +4,9 @@ This repository contains example applications for demoing ArgoCD functionality. 
 to register this repository to your ArgoCD instance, or fork this repo and push your own commits
 to explore ArgoCD and GitOps!
 
-| Application | Description |
-|-------------|-------------|
-| [guestbook](guestbook/) | A hello word guestbook app as plain YAML |
+| Application | Description | Status |
+|-------------|-------------|-------------|
+| [guestbook](guestbook/) | A hello word guestbook app as plain YAML | 
 | [ksonnet-guestbook](ksonnet-guestbook/) | The guestbook app as a ksonnet app |
 | [helm-guestbook](helm-guestbook/) | The guestbook app as a Helm chart |
 | [jsonnet-guestbook](jsonnet-guestbook/) | The guestbook app as a raw jsonnet |
