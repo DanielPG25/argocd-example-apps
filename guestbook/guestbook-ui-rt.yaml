@@ -1,0 +1,9 @@
+kind: Route
+apiVersion: v1
+metadata:
+  name: guestbook-route
+spec:
+  host:
+  to:
+    kind: Service
+    name: guestbook-ui
